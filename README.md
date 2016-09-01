@@ -20,5 +20,5 @@ To access the gesture recognition engine from Unity, use the static class VividV
 This project was built at [/hack](https://www.hackerearth.com/slash-hack/) for the Gear VR. We used the recognition engine in a demo where opening your hand pushed an object.
 
 
-![Alt text](/demo.jpeg?raw=true "/hack)
+![Alt text](/demo.jpeg?raw=true "/hack")
 
